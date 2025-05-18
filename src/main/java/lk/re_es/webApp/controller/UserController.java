@@ -24,7 +24,6 @@ public class UserController {
         this.objectMapper.registerModule(new JavaTimeModule());
         this.objectMapper.enable(SerializationFeature.INDENT_OUTPUT); // Enable pretty printing
     }
-
     // Helper method to get the file where users are stored
     private File getFile() throws IOException {
         File file = new File("database/users.json");
