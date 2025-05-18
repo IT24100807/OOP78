@@ -1,0 +1,67 @@
+[ {
+  "id" : 1,
+  "createdAt" : [ 2025, 5, 18, 21, 41, 26, 625901800 ],
+  "updatedAt" : [ 2025, 5, 18, 21, 41, 26, 625901800 ],
+  "name" : "Rumana Azmi",
+  "email" : "rumana@gmail.com",
+  "phone" : "0715946052",
+  "dob" : "2003-04-05",
+  "password" : "admin123",
+  "role" : "admin",
+  "details" : "Name: Rumana Azmi, Email: rumana@gmail.com"
+}, {
+  "id" : 2,
+  "createdAt" : [ 2025, 5, 18, 21, 50, 50, 693222200 ],
+  "updatedAt" : [ 2025, 5, 18, 21, 50, 50, 694673000 ],
+  "name" : "Dinithi Weerasinghe",
+  "email" : "dinithi@gmail.com",
+  "phone" : "0775642567",
+  "dob" : "2003-05-07",
+  "password" : "admin123",
+  "role" : "admin",
+  "details" : "Name: Dinithi Weerasinghe, Email: dinithi@gmail.com"
+}, {
+  "id" : 3,
+  "createdAt" : [ 2025, 5, 18, 22, 0, 55, 309049900 ],
+  "updatedAt" : [ 2025, 5, 18, 22, 0, 55, 309254800 ],
+  "name" : "Tharushi Pabasara",
+  "email" : "tharushi@gmail.com",
+  "phone" : "0715566789",
+  "dob" : "2003-05-07",
+  "password" : "admin123",
+  "role" : "admin",
+  "details" : "Name: Tharushi Pabasara, Email: tharushi@gmail.com"
+}, {
+  "id" : 4,
+  "createdAt" : [ 2025, 5, 18, 22, 1, 49, 821043500 ],
+  "updatedAt" : [ 2025, 5, 18, 22, 1, 49, 821043500 ],
+  "name" : "Sahasra Senadheera",
+  "email" : "sahasra@gmail.com",
+  "phone" : "0718144580",
+  "dob" : "2003-02-22",
+  "password" : "admin123",
+  "role" : "admin",
+  "details" : "Name: Sahasra Senadheera, Email: sahasra@gmail.com"
+}, {
+  "id" : 5,
+  "createdAt" : [ 2025, 5, 18, 22, 7, 36, 358577500 ],
+  "updatedAt" : [ 2025, 5, 18, 22, 7, 36, 359641800 ],
+  "name" : "Saranya Bharathy",
+  "email" : "saranya@gmail.com",
+  "phone" : "0785643233",
+  "dob" : "2003-08-23",
+  "password" : "admin123",
+  "role" : "admin",
+  "details" : "Name: Saranya Bharathy, Email: saranya@gmail.com"
+}, {
+  "id" : 6,
+  "createdAt" : [ 2025, 5, 18, 22, 8, 34, 163321900 ],
+  "updatedAt" : [ 2025, 5, 18, 22, 8, 34, 163321900 ],
+  "name" : "Chamodi Dewmini",
+  "email" : "chamodi@gmail.com",
+  "phone" : "0719825855",
+  "dob" : "2003-06-03",
+  "password" : "admin123",
+  "role" : "admin",
+  "details" : "Name: Chamodi Dewmini, Email: chamodi@gmail.com"
+} ]
