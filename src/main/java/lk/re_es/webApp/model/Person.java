@@ -50,7 +50,6 @@ public class Person extends BaseEntity {
         this.dob = dob;
     }
 
-    // Polymorphism
     public String getDetails() {
         return "Name: " + name + ", Email: " + email;
     }

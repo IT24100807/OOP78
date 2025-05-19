@@ -64,4 +64,26 @@
   "password" : "admin123",
   "role" : "admin",
   "details" : "Name: Chamodi Dewmini, Email: chamodi@gmail.com"
+}, {
+  "id" : 7,
+  "createdAt" : [ 2025, 5, 19, 8, 59, 15, 73742800 ],
+  "updatedAt" : [ 2025, 5, 19, 8, 59, 15, 75702500 ],
+  "name" : "Kavitha Niwandi",
+  "email" : "kavitha@gmail.com",
+  "phone" : "0875364566",
+  "dob" : "2001-12-12",
+  "password" : "kavitha",
+  "role" : "user",
+  "details" : "Name: Kavitha Niwandi, Email: kavitha@gmail.com"
+}, {
+  "id" : 8,
+  "createdAt" : [ 2025, 5, 19, 9, 3, 28, 869544000 ],
+  "updatedAt" : [ 2025, 5, 19, 9, 3, 28, 870679600 ],
+  "name" : "Bimandi Bosilu",
+  "email" : "bimandi@gmail.com",
+  "phone" : "0715656243",
+  "dob" : "2003-07-14",
+  "password" : "bimandi",
+  "role" : "user",
+  "details" : "Name: Bimandi Bosilu, Email: bimandi@gmail.com"
 } ]
